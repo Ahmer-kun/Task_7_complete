@@ -1,0 +1,24 @@
+Tooplate.com HTML Templates
+
+You can edit and use this template for any purpose (personal or commercial) of your website. You can modify text and images to suit your own website or client websites.
+
+You are NOT allowed to re-distribute our template ZIP file for any reason on your template sites or template collection sites.
+
+You can feature our templates on your blog posts that collect good templates. You can put a screenshot and a link back to our template page. That is helpful for us.
+
+THANK YOU
+
+be happy and healthy!
+
+be peaceful ... :)
+:root {
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --secondary: #10b981;
+            --background: #0f172a;
+            --surface: #1e293b;
+            --text: #e2e8f0;
+            --text-secondary: #94a3b8;
+            --accent: #f472b6;
+            --gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
