@@ -1,0 +1,25 @@
+media file for different viewpoints
+
+   @media (max-width: 768px) {
+            h1 { font-size: 40px; }
+            .nav-links { display: none; }
+            .mobile-menu-toggle { display: flex; }
+            .pricing-cards { grid-template-columns: 1fr; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); }
+            .contact-content { grid-template-columns: 1fr; gap: 32px; }
+            .form-row { grid-template-columns: 1fr; }
+            .footer-content { grid-template-columns: 1fr; gap: 32px; }
+            .footer-links { grid-template-columns: 1fr; }
+            .footer-bottom { flex-direction: column; gap: 32px; }
+   }
+:root {
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --secondary: #10b981;
+            --background: #0f172a;
+            --surface: #1e293b;
+            --text: #e2e8f0;
+            --text-secondary: #94a3b8;
+            --accent: #f472b6;
+            --gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
