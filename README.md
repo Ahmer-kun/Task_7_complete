@@ -16,3 +16,6 @@ You might have some luck by searching for skeleton projects. Also, try to add "g
 
 
 
+https://www.reddit.com/r/Frontend/comments/j08hzn/good_websites_to_practice_my_front_end_skills/
+
+https://www.google.com/search?q=website+to+pratice+front+end+eddit&rlz=1C1GCEU_enPK1177PK1177&oq=website+to+pratice+front+end+eddit&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMgoICBAAGIAEGKIEMgoICRAAGIAEGKIE0gEIOTQ1NGowajSoAgCwAgE&sourceid=chrome&ie=UTF-8
